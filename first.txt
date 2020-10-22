@@ -9,3 +9,5 @@ Gitの練習をしていきます
 git rm ファイル名
 
 ・git status
+・git diff
+変更差分を表示する。
