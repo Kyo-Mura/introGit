@@ -7,3 +7,5 @@ Gitの練習をしていきます
 ・git rm
 も勉強したよ
 git rm ファイル名
+
+・git status
